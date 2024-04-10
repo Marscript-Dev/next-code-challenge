@@ -1,4 +1,4 @@
-# React Code Challenge
+# Next Code Challenge
 
 Hello developer, thank you for taking time to resolve this challenge. Please read carefully the instructions below before start and feel free to ask any question you may have.
 
